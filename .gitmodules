@@ -1,6 +1,6 @@
 [submodule "src/github.com/concourse/atc"]
 	path = src/github.com/concourse/atc
-	url = https://github.com/concourse/atc
+	url = https://github.com/brandon-bethke-neudesic/atc
 	branch = master
 [submodule "src/github.com/lib/pq"]
 	path = src/github.com/lib/pq
@@ -60,7 +60,7 @@
 	branch = master
 [submodule "src/github.com/concourse/baggageclaim"]
 	path = src/github.com/concourse/baggageclaim
-	url = https://github.com/concourse/baggageclaim
+	url = https://github.com/brandon-bethke-neudesic/baggageclaim
 	branch = master
 [submodule "src/github.com/xoebus/zest"]
 	path = src/github.com/xoebus/zest
