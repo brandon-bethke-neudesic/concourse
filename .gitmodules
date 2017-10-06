@@ -258,7 +258,7 @@
 	branch = master
 [submodule "src/github.com/concourse/bin"]
 	path = src/github.com/concourse/bin
-	url = https://github.com/concourse/bin
+	url = https://github.com/brandon-bethke-neudesic/bin
 	branch = master
 [submodule "src/github.com/cenkalti/backoff"]
 	path = src/github.com/cenkalti/backoff
