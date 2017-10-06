@@ -103,7 +103,7 @@
 	url = https://github.com/kr/pty
 [submodule "src/github.com/concourse/fly"]
 	path = src/github.com/concourse/fly
-	url = https://github.com/concourse/fly
+	url = https://github.com/brandon-bethke-neudesic/fly
 	branch = master
 [submodule "src/github.com/tedsuo/rata"]
 	path = src/github.com/tedsuo/rata
